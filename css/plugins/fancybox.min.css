@@ -380,7 +380,7 @@ body.compensate-for-scrollbar {
 }
 
 .fancybox-progress {
-    background: rgba(255, 152, 0, 1);
+    background: rgb(232, 69, 36);
     height: 4px;
     left: 0;
     position: absolute;
