@@ -1,0 +1,45 @@
+
+.mil-frame-top .text {
+    color: #e94e1b; 
+    font-size: 48px; 
+    margin-right: 20px;
+}
+
+.mk-banner {
+    height: 30px; 
+    width: auto;
+    margin-bottom: 25px;
+}
+
+.mk-sports {
+height: 35px; 
+width: auto;
+margin-bottom: 25px;
+}
+
+.mk-experts{
+
+height: 40px; 
+width: auto; 
+margin-bottom: 25px;
+
+}
+
+.mkt-logo {
+height: 50px;
+width: auto; 
+}
+
+.welcomeTo{
+
+    height: 70px; 
+    width: auto;
+
+}
+
+.powered-by-logo {
+    height: 32px; /* Ajusta la altura según sea necesario */
+    width: auto; /* Mantén la proporción de la imagen */
+    margin-left: 10px; /* Espacio entre el texto y la imagen */
+    vertical-align: middle; /* Alinea verticalmente la imagen con el texto */
+}
