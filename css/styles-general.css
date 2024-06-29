@@ -1,3 +1,19 @@
+<<<<<<< HEAD
+.header {
+    padding: 0; /* Asegura que no haya padding en el contenedor del encabezado */
+    display: flex;
+    align-items: center;
+    margin: 0;
+}
+
+.mil-logo {
+    height: 50px; /* Ajusta la altura según sea necesario */
+    width: 100; 
+    margin: 0; /* Elimina cualquier margen adicional */
+    padding: 0; /* Elimina cualquier padding adicional */
+}
+=======
+>>>>>>> 893e29c9d2cf19ee321577113aba13a05d8af46a
 
 .mil-frame-top .text {
     color: #e94e1b; 
@@ -12,6 +28,35 @@
 }
 
 .mk-sports {
+<<<<<<< HEAD
+    height: 35px; 
+    width: auto;
+    margin-bottom: 25px;
+}
+
+.mk-experts {
+    height: 40px; 
+    width: auto; 
+    margin-bottom: 25px;
+}
+
+.mkt-logo {
+    height: 50px;
+    width: auto; 
+}
+
+.welcomeTo {
+    height: 70px; 
+    width: auto;
+}
+
+.powered-by-logo {
+    height: 40px; /* Ajusta la altura según sea necesario */
+    width: auto; /* Mantén la proporción de la imagen */
+    margin-left: 10px; /* Espacio entre el texto y la imagen */
+    vertical-align: middle; /* Alinea verticalmente la imagen con el texto */
+}
+=======
 height: 35px; 
 width: auto;
 margin-bottom: 25px;
@@ -43,3 +88,4 @@ width: auto;
     margin-left: 10px; /* Espacio entre el texto y la imagen */
     vertical-align: middle; /* Alinea verticalmente la imagen con el texto */
 }
+>>>>>>> 893e29c9d2cf19ee321577113aba13a05d8af46a
